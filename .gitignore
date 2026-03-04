@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 *.exe
 *.o
 *.obj
 data/result.txt
 __pycache__/
 .vscode/
+=======
+
+>>>>>>> 39866d33733f9f6d8e4f13aed48b8b73cfbbf486
